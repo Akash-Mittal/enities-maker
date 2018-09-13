@@ -3,5 +3,9 @@
 	<persistence-unit name="entities">
 		<class>com.betpawa.wallet.auto.entities.base.BaseEntityAudit</class>
 		<class>com.betpawa.wallet.auto.entities.base.BaseEntity</class>
+		<class>com.betpawa.wallet.auto.entities.generated.BpCurrency</class>
+		<class>com.betpawa.wallet.auto.entities.generated.BpUser</class>
+		<class>com.betpawa.wallet.auto.entities.generated.BpUserCurrency</class>
+		<class>com.betpawa.wallet.auto.entities.generated.BpUserWallet</class>
 	</persistence-unit>
 </persistence>
