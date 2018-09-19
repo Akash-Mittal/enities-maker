@@ -7,5 +7,7 @@
 		<class>com.betpawa.wallet.auto.entities.generated.BpUser</class>
 		<class>com.betpawa.wallet.auto.entities.generated.BpUserCurrency</class>
 		<class>com.betpawa.wallet.auto.entities.generated.BpUserWallet</class>
+		<class>com.betpawa.wallet.auto.entities.simple.generated.UserWallet</class>
+		<class>com.betpawa.wallet.auto.entities.simple.generated.UserWalletPK</class>
 	</persistence-unit>
 </persistence>
