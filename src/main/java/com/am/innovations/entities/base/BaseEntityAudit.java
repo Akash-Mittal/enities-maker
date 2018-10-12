@@ -1,4 +1,4 @@
-package com.betpawa.wallet.auto.entities.base;
+package com.am.innovations.entities.base;
 
 import java.util.Date;
 
